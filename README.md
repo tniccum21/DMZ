@@ -10,3 +10,10 @@ Colab links for DMZ class
 <li>LLM-Part-3: https://colab.research.google.com/drive/10o3vh7fmHmeODidK_GVmwGDB6Vgc1U5O?usp=sharing</li>
 <li>Fine-Tuning: https://colab.research.google.com/drive/1QfUMocrTLmZI0vE9cHnxI1JAEIF8WNrV?usp=sharing</li>
 </ol>
+
+Other Links:
+<list>
+<li>Hugging Face: https://huggingface.co/</li>
+<li>OpenAI: https://openai.com/</li>
+</list>
+
