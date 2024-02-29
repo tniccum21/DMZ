@@ -13,6 +13,7 @@ Colab links for DMZ class
 
 Other Links:
 <list>
+<li>Google Colab: https://colab.research.google.com/  </li>
 <li>Hugging Face: https://huggingface.co/</li>
 <li>OpenAI: https://openai.com/</li>
 </list>
